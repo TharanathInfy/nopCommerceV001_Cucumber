@@ -1,0 +1,134 @@
+2021-04-26 16:51:13,678 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 16:51:13,726 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 16:51:19,609 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 16:51:19,952 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 16:51:47,687 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 16:51:47,690 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 16:51:54,936 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 16:51:55,361 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 16:52:27,121 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 16:52:27,125 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 16:52:30,376 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 16:52:30,827 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 16:53:00,426 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 16:53:00,429 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 16:53:03,300 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 16:53:03,797 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 16:53:12,825 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 16:53:12,864 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 16:53:17,486 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 16:53:20,057 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 16:53:20,062 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 16:53:25,457 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 16:53:26,056 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 16:53:36,015 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 16:53:36,023 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 16:53:40,614 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 16:53:42,796 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 16:53:42,799 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 16:53:46,089 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 16:53:46,570 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 16:53:52,331 - nopCommerce -INFO - ****************** login passed***************
+2021-04-26 17:30:00,274 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:30:00,325 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:30:08,811 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:30:09,127 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:30:23,284 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:30:23,295 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 17:30:30,052 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:30:32,294 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:30:32,297 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:30:36,790 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:30:37,192 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:30:50,050 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:30:50,060 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 17:30:57,358 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:30:59,566 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:30:59,569 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:31:03,922 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:31:04,322 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:31:09,127 - nopCommerce -INFO - ****************** login passed***************
+2021-04-26 17:36:11,970 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:36:12,057 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:36:16,923 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:36:17,146 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:36:26,694 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:36:26,704 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 17:36:31,520 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:36:40,267 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:36:40,279 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:36:43,757 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:36:43,967 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:36:54,840 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:36:54,846 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 17:37:00,554 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:37:09,562 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:37:09,587 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:37:13,475 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:37:13,783 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:37:20,206 - nopCommerce -INFO - ****************** login passed***************
+2021-04-26 17:39:56,031 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:39:56,121 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:40:01,161 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:40:01,393 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:40:10,634 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:40:10,646 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 17:40:15,518 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:40:23,784 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:40:23,788 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:40:27,772 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:40:28,051 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:40:38,181 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:40:38,187 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 17:40:42,999 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:40:51,537 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:40:51,596 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:40:55,514 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:40:55,721 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:41:02,079 - nopCommerce -INFO - ****************** login passed***************
+2021-04-26 17:51:50,903 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:51:50,979 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:51:58,393 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:52:18,680 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:52:18,738 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:52:20,240 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:55:01,889 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:55:01,950 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:55:06,867 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:55:07,283 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:55:20,214 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:55:20,226 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 17:55:25,920 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:56:26,128 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:56:26,169 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:56:30,552 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:56:31,002 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:57:00,087 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 17:57:00,090 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 17:57:06,725 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 17:57:07,152 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 17:57:21,370 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 17:57:21,379 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 17:57:26,394 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 19:18:34,555 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 19:18:34,804 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 19:18:39,237 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 19:18:39,783 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 19:19:05,366 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 19:19:05,370 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 19:19:11,357 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 19:19:11,884 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 19:19:23,565 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 19:19:23,583 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 19:19:28,798 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 22:20:36,151 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 22:20:36,307 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 22:20:42,748 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 22:20:43,347 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 22:21:18,048 - nopCommerce -INFO - ****************** launching browser***************
+2021-04-26 22:21:18,131 - nopCommerce -INFO - ****************** launching url***************
+2021-04-26 22:21:22,822 - nopCommerce -INFO - ****************** providing user details**************
+2021-04-26 22:21:23,413 - nopCommerce -INFO - ****************** started login***************
+2021-04-26 22:21:38,036 - nopCommerce -INFO - ****************** login failed***************
+2021-04-26 22:21:38,068 - nopCommerce -INFO - ****************** clcik on logout ***************
+2021-04-26 22:21:43,441 - nopCommerce -INFO - ****************** login failed***************
